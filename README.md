@@ -14,3 +14,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - Styling (+ Bootstrap)
 - Form validation (esp. for credit card information)
 - More efficient/dynamic select dropdown population (states, years, etc.)
+- Seperate page components into seperate files for organization
