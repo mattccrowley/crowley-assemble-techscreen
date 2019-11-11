@@ -9,7 +9,7 @@ Will install any required dependencies.
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### TODO
+### TODO (3 hour limit reached)
 
 - Styling (+ Bootstrap)
 - Form validation (esp. for credit card information)
